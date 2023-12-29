@@ -179,7 +179,7 @@ h5 {
     cursor: pointer;
 }
 
-.contact-me {
+.work {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -189,7 +189,7 @@ h5 {
     background: #101010;
 }
 
-.contact-me .button-2 {
+.work .button-2 {
     background-color: rebeccapurple;
     color: white;
     text-decoration: none;
@@ -200,7 +200,7 @@ h5 {
     transition: .4s;
 }
 
-.contact-me .button-2:hover {
+.work .button-2:hover {
     transform: scale(1.2);
     cursor: pointer;
 }
